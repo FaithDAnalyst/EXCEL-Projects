@@ -3,7 +3,7 @@
 
 # Introduction
 GlobalMart Retail Solutions, a leading multinational 
-corporation, is actively pursuing an ambitious strategy for 
+corperation, is actively pursuing an ambitious strategy for 
 widespread global expansion across diverse markets. With a 
 strong footprint in multiple regions and countries, 
 GlobalMart aims to cater to a broad spectrum of consumer 
