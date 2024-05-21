@@ -1,9 +1,8 @@
 
-# Global Retail Expansion Strategy Case Study
+# Jumia Retail Expansion Analysis Case Study
 
 # Introduction
-GlobalMart Retail Solutions, a leading multinational 
-corperation, is actively pursuing an ambitious strategy for 
+Jumai Retail Expansion is actively pursuing an ambitious strategy for 
 widespread global expansion across diverse markets. With a 
 strong footprint in multiple regions and countries, 
 GlobalMart aims to cater to a broad spectrum of consumer 
@@ -13,7 +12,7 @@ fresh fruits.
 
 # Objective
 To derive actionable insights from sales data to optimize 
-GlobalMart Retail Solutions' strategies, sales channels, 
+Jumia Retail strategies, sales channels, 
 profitability, and supply chain for successful global expansion
 
 # Data Dictionary
